@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+    <rect width="800" height="500" rx="28" fill="#ffedd5"/>
+    <circle cx="660" cy="85" r="36" fill="#fff" opacity=".55"/>
+    <path d="M0 390 Q180 320 360 390 T800 370 V500 H0Z" fill="#86b77b"/>
+    <ellipse cx="400" cy="260" rx="120" ry="125" fill="#f59e0b"/><circle cx="400" cy="205" r="90" fill="#fbbf24"/><path d="M335 145 L365 185 M400 125 L400 170 M465 145 L435 185 M315 220 L360 225 M485 220 L440 225 M350 280 L380 260 M450 280 L420 260" stroke="#242424" stroke-width="15" stroke-linecap="round"/><circle cx="370" cy="205" r="9" fill="#222"/><circle cx="430" cy="205" r="9" fill="#222"/><ellipse cx="400" cy="235" rx="20" ry="14" fill="#222"/>
+    <text x="30" y="52" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#24332c">HỔ</text>
+    </svg>

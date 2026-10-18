@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+    <rect width="800" height="500" rx="28" fill="#ffedd5"/>
+    <circle cx="660" cy="85" r="36" fill="#fff" opacity=".55"/>
+    <path d="M0 390 Q180 320 360 390 T800 370 V500 H0Z" fill="#86b77b"/>
+    <path d="M300 160 L320 85 L375 145 Q400 130 425 145 L480 85 L500 160 Q535 205 505 265 Q480 320 400 325 Q320 320 295 265 Q265 205 300 160Z" fill="#c05621"/><path d="M335 260 Q400 300 465 260 L440 315 L360 315Z" fill="#fff7ed"/><circle cx="365" cy="210" r="9" fill="#222"/><circle cx="435" cy="210" r="9" fill="#222"/><path d="M385 250 L415 250 L400 267Z" fill="#222"/>
+    <text x="30" y="52" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#24332c">CÁO</text>
+    </svg>
